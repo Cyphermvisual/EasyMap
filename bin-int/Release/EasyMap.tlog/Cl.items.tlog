@@ -1,0 +1,10 @@
+C:\Users\migue\Documents\2-Madworks\EasyMap\src\main.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\main.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\src\capture.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\capture.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\src\warp.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\warp.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\src\config.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\config.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\external\imgui\imgui.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\imgui.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\external\imgui\imgui_draw.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\imgui_draw.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\external\imgui\imgui_widgets.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\imgui_widgets.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\external\imgui\imgui_tables.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\imgui_tables.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\external\imgui\backends\imgui_impl_win32.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\imgui_impl_win32.obj
+C:\Users\migue\Documents\2-Madworks\EasyMap\external\imgui\backends\imgui_impl_dx11.cpp;C:\Users\migue\Documents\2-Madworks\EasyMap\bin-int\Release\imgui_impl_dx11.obj
