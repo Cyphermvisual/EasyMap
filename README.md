@@ -11,7 +11,7 @@ Unlike traditional streaming, recording, or window-mirroring software that intro
 ---
 
 
-##  Just download the .exe run configure and play! Or build the app! 
+##  Just download the .exe from the releases page, run, configure and play! Or build the app! 
 
 
 
