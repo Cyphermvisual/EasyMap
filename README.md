@@ -10,7 +10,7 @@ Unlike traditional streaming, recording, or window-mirroring software that intro
 
 ---
 
-
+# 🎮 QUICK SETUP:
 ##  Just download the .exe from the releases page, run, configure and play! Or build the app! 
 
 
